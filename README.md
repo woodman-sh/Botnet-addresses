@@ -5,4 +5,4 @@ This file contains IP addresses that in one way or another sent malicious reques
 
 This file will be updated periodically as new information about specific addresses becomes available.
 
-Currently the file contains 1100+ addresses that were used to attack public servers.
+Currently the file contains 2900+ addresses that were used to attack public servers.
